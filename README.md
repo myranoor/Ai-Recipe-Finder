@@ -1,5 +1,11 @@
 # AI-Recipe-Finder
 
+#skills used
+-Next JS
+-React
+-Vercel
+-Open AI
+
 ### Prerequisites
 
 - Node.js (v14.x or higher)
