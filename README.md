@@ -4,7 +4,7 @@
 -Next JS<br>
 -React<br>
 -Vercel<br>
--Open AI<br>
+-Gemini<br>
 
 ### Prerequisites
 
