@@ -1,10 +1,10 @@
 # AI-Recipe-Finder
 
-#skills used
--Next JS
--React
--Vercel
--Open AI
+<h1>skills used</h1> <br>
+-Next JS<br>
+-React<br>
+-Vercel<br>
+-Open AI<br>
 
 ### Prerequisites
 
